@@ -68,42 +68,6 @@ A continuación ejemplos visuales del bot en acción:
 
 ---
 
-🛠️ Instalación y uso
-
- Requisitos
-
-* Python 3.9 o superior
-* Una cuenta de Discord y un bot creado en el Discord Developer Portal
-* Librerías necesarias:
-
-  ```bash
-  pip install discord.py requests
-  ```
-
- Pasos de instalación
-
-1. Clona este repositorio o descarga el código.
-2. Coloca tus imágenes de naturaleza en una carpeta local y ajusta las rutas en el código.
-3. Reemplaza el **token del bot** por uno propio (usa variables de entorno por seguridad).
-4. Ejecuta el archivo principal:
-
-   ```
-   python bot.py
-   ```
-
-Uso:
-
-Dentro de un servidor de Discord donde esté agregado el bot, utiliza los comandos:
-
-* `!hola`
-* `!noticias`
-* `!tips`
-* `!reto`
-* `!paisaje`
-* `!help`
-
----
-
 💬 Comentarios y colaboración
 
 Los usuarios pueden participar en el desarrollo del proyecto de las siguientes formas:
@@ -116,7 +80,7 @@ Toda opinión constructiva es bienvenida para seguir mejorando el bot 🌱.
 
 ---
 
-## ✅ Conclusión
+✅ Conclusión
 
 1tis.GG es una herramienta educativa y motivadora que demuestra cómo la tecnología puede utilizarse para generar conciencia ambiental. Su integración en Discord permite llegar a comunidades jóvenes y activas, fomentando pequeñas acciones diarias que, en conjunto, pueden generar un gran impacto positivo en el planeta.
 
