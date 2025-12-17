@@ -50,11 +50,19 @@ Este proyecto tiene como finalidad promover hábitos responsables con el medio a
 A continuación ejemplos visuales del bot en acción:
 <img width="576" height="409" alt="image" src="https://github.com/user-attachments/assets/bbc09aae-9947-4e8b-8042-59d1486652f1" />
 
+---
+
 <img width="950" height="514" alt="image" src="https://github.com/user-attachments/assets/a70f5feb-4146-4ea4-93f2-ce7d26f72ffc" />
+
+---
 
 <img width="917" height="56" alt="image" src="https://github.com/user-attachments/assets/d71babfd-15df-45de-89ea-f16e0204316a" />
 
+---
+
 <img width="651" height="63" alt="image" src="https://github.com/user-attachments/assets/97e66b1d-f73b-4686-9625-6c45a7a5da63" />
+
+---
 
 <img width="585" height="332" alt="image" src="https://github.com/user-attachments/assets/b832daee-1f3b-450c-a40f-95f5edd4770a" />
 
