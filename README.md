@@ -1,8 +1,8 @@
-# 🌍 1tis.GG – Bot de Discord Ecológico
+# 🌍 1tis.News – Bot de Discord Ecológico
 
 Autor: 1tis.News
 
-1tis.GG es un bot de Discord enfocado en la concienciación ambiental. Su objetivo es informar, motivar y educar a los usuarios sobre el cuidado del medio ambiente mediante noticias, consejos ecológicos, retos diarios e imágenes inspiradoras de la naturaleza.
+1tis.News es un bot de Discord enfocado en la concienciación ambiental. Su objetivo es informar, motivar y educar a los usuarios sobre el cuidado del medio ambiente mediante noticias, consejos ecológicos, retos diarios e imágenes inspiradoras de la naturaleza.
 
 ---
 
